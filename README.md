@@ -123,7 +123,7 @@ As shown in the figure below, increasing the number of training samples primaril
 
 
 
-### Effect of sparse Observations
+### Effect of Noisy Observations
 Finally, we test the model under noisy observational conditions. We condition the model on redshift-space dark matter fields and halo fields, both of which represent more realistic and noisier observations compared to ideal real-space dark matter fields.
 
 As seen in the plots below, conditioning on noisier data degrades reconstruction accuracy—especially the cross-correlation coefficient (*C(k)*):  
@@ -144,5 +144,4 @@ These results show that as observation noise increases, model performance—part
 
 </details>
 
-Giti Doolabi
-Ph.D. Student • University of Virginia
+
